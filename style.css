@@ -1,0 +1,56 @@
+.fam{
+    /* background-: url(AancR.jpg); */
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
+.fam ul{
+    list-style: none;
+    padding: 0%;
+}
+.fam ul li{
+    display: inline;
+    margin: 0 10px;
+}
+.fam h1{
+    font-family: "Libre Baskerville", serif;
+    font-family: 'Bungee Spice', sans-serif;
+    font-weight: 100;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+.fam p{
+    font-family: "Libre Baskerville", serif;
+    color:chartreuse
+}
+.red{
+    color: red;
+}
+.green{
+    color: rgb(196, 31, 10);
+}
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+video{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    z-index: -1;
+}
+footer{
+    text-decoration: double;
+    color: #b46600fb;
+    text-align: center;
+    padding: 20px;
+}
